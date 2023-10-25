@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tabs/Типовые проблемы.md",
+                "file": "_posts/2022-12-31-new.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_tabs/Типовые проблемы.md",
+                "file": "_posts/2022-12-31-new.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_tabs/Типовые проблемы.md",
+                "file": "_posts/2022-12-31-new.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_tabs/Типовые проблемы.md"
+                "file": "_posts/2022-12-31-new.md"
               }
             }
           }
@@ -148,10 +148,12 @@
   },
   "active": "f239e54826272290",
   "lastOpenFiles": [
+    "assets/img/MZcx8-–-1200.png",
+    "assets/img",
+    "_tabs/Про CX-8.md",
     "_tabs/Расходники и запчасти.md",
     "_tabs/Типовые проблемы.md",
     "_tabs/Категории.md",
-    "_tabs/Про CX-8.md",
     "_tabs/Полезное.md",
     "_tabs/Инструкции.md",
     "_posts/2022-12-31-new.md",
