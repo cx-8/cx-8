@@ -73,8 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.mds.yandex.net/get-autoru-vos/5235238/456da39658f0afdf19de92d5aa4b235e/1200x900n
-
+avatar: "https://im3.ezgif.com/tmp/ezgif-3-2545504b74.gif"
 # boolean type, the global switch for TOC in posts.
 toc: true
 
