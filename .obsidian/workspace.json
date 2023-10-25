@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db70ec86b070b75c",
+        "id": "b786f330cdff74ba",
         "type": "tabs",
         "children": [
           {
-            "id": "f239e54826272290",
+            "id": "db32d07e382e01a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,7 +146,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f239e54826272290",
+  "active": "db32d07e382e01a7",
   "lastOpenFiles": [
     "assets/ffdf.png",
     "_posts/2022-12-31-new.md",
