@@ -2,7 +2,7 @@
   "attachPath": {
     "attachmentRoot": "//assets/",
     "saveAttE": "obsFolder",
-    "attachmentPath": "${notename}",
+    "attachmentPath": "${parent}",
     "attachFormat": "tim.${date}",
     "type": "GLOBAL",
     "extensionOverride": []
