@@ -3,15 +3,15 @@
     "attachmentRoot": "//assets/",
     "saveAttE": "obsFolder",
     "attachmentPath": "${notename}",
-    "attachFormat": "IMG-${date}",
+    "attachFormat": "tim-${notename}-${date}",
     "type": "GLOBAL",
     "extensionOverride": []
   },
-  "dateFormat": "YYYYMMDDHHmmssSSS",
+  "dateFormat": "DD.MM.YYYY.HH.mm.ss",
   "excludeExtensionPattern": "",
   "autoRenameAttachment": true,
   "excludedPaths": "",
   "excludePathsArray": [],
-  "excludeSubpaths": false,
+  "excludeSubpaths": true,
   "overridePath": {}
 }
