@@ -11,11 +11,9 @@
             "id": "db32d07e382e01a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_tabs/Расходники и запчасти.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/images/2022-12-31-new/tim.26.10.2023.19.59.25.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_tabs/Расходники и запчасти.md",
+                "file": "assets/images/2022-12-31-new/tim.26.10.2023.19.59.25.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_tabs/Расходники и запчасти.md",
+                "file": "assets/images/2022-12-31-new/tim.26.10.2023.19.59.25.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_tabs/Расходники и запчасти.md"
+                "file": "assets/images/2022-12-31-new/tim.26.10.2023.19.59.25.png"
               }
             }
           }
@@ -146,11 +144,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "db32d07e382e01a7",
+  "active": "56d9d0189479a4f9",
   "lastOpenFiles": [
-    "assets/images/tim.26.10.2023.19.55.34.png",
     "_posts/2022-12-31-new.md",
+    "assets/images/2022-12-31-new",
+    "assets/images/2022-12-31-new/tim.26.10.2023.19.59.25.png",
+    "assets/images/tim.26.10.2023.19.55.34.png",
     "assets/images/tim.26.10.2023.19.55.12.png",
+    "_tabs/Расходники и запчасти.md",
     "_tabs/Полезное.md",
     "assets/images/_tabs",
     "assets/images/_tabs/tim.26.10.2023.19.51.44.png",
@@ -159,17 +160,13 @@
     "assets/images/_posts/tim.26.10.2023.19.50.09.png",
     "README.md",
     "assets/images/2022-12-31-new/tim.26.10.2023.19.45.03.jpg.md",
-    "assets/images/2022-12-31-new",
     "assets/images/2022-12-31-new/tim.26.10.2023.19.45.03.jpg",
     "assets/images/2022-12-31-new/tim.26.10.2023.05.06.30.png",
     "_tabs/Про CX-8.md",
-    "_tabs/Расходники и запчасти.md",
     "_tabs/Типовые проблемы.md",
     "assets/images/2022-12-31-new/tim.26.10.2023.05.03.14.png",
     "assets/images/2022-12-31-new/tim.2022-12-31-new.26.10.2023.05.02.28.png",
-    "assets/images/2022-12-31-new/tim-2022-12-31-new-26.10.2023.04.59.48.png",
     "assets/images/2022-12-31-new/tim-2022-12-31-new-26.10.2023.04.52.55.png.md",
-    "assets/images/2022-12-31-new/tim-2022-12-31-new-26.10.2023.04.59.01.png",
     "assets/images/2022-12-31-new/tim-2022-12-31-new-26.10.2023.04.50.27.png.md",
     "assets/images/2022-12-31-new/tim-2022-12-31-new-26.10.2023.04.50.27.png 1.md",
     "assets/_posts/2022-12-31-new",
