@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-12-31-new.md",
+                "file": "_tabs/Про авто.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-12-31-new.md",
+                "file": "_tabs/Про авто.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-12-31-new.md",
+                "file": "_tabs/Про авто.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-12-31-new.md"
+                "file": "_tabs/Про авто.md"
               }
             }
           }
@@ -148,16 +148,17 @@
   },
   "active": "db32d07e382e01a7",
   "lastOpenFiles": [
-    "_tabs/Про CX-8.md",
+    "assets/images/Про авто",
+    "_posts/2022-12-31-new.md",
+    "_tabs/Про авто.md",
     "_tabs/Расходники и запчасти.md",
     "_tabs/Типовые проблемы.md",
     "_tabs/Категории.md",
     "_tabs/Полезное.md",
-    "assets/images/Про CX-8/tim.26.10.2023.22.30.47.png",
+    "assets/images/Про авто/tim.26.10.2023.22.30.47.png",
     "assets/images/Про CX-8",
-    "assets/images/Про CX-8/tim.26.10.2023.22.30.30.png",
+    "assets/images/Про авто/tim.26.10.2023.22.30.30.png",
     "_tabs/Инструкции.md",
-    "_posts/2022-12-31-new.md",
     "assets/img/favicons/favicon.ico",
     "assets/img/favicon.ico",
     "assets/img/favicons",
