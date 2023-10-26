@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tabs/Про авто.md",
+                "file": "_tabs/Про CX-8.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_tabs/Про авто.md",
+                "file": "_tabs/Про CX-8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_tabs/Про авто.md",
+                "file": "_tabs/Про CX-8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_tabs/Про авто.md"
+                "file": "_tabs/Про CX-8.md"
               }
             }
           }
@@ -148,15 +148,18 @@
   },
   "active": "db32d07e382e01a7",
   "lastOpenFiles": [
-    "assets/images/Про авто",
-    "_posts/2022-12-31-new.md",
+    "_tabs/Полезное.md",
+    "_tabs/Про CX-8.md",
     "_tabs/Про авто.md",
     "_tabs/Расходники и запчасти.md",
+    "assets/images/Про CX-8/tim.26.10.2023.22.30.30.png.md",
+    "assets/images/Про CX-8/tim.26.10.2023.22.30.47.png.md",
+    "assets/images/Про CX-8",
+    "assets/images/Про авто",
+    "_posts/2022-12-31-new.md",
     "_tabs/Типовые проблемы.md",
     "_tabs/Категории.md",
-    "_tabs/Полезное.md",
     "assets/images/Про авто/tim.26.10.2023.22.30.47.png",
-    "assets/images/Про CX-8",
     "assets/images/Про авто/tim.26.10.2023.22.30.30.png",
     "_tabs/Инструкции.md",
     "assets/img/favicons/favicon.ico",
@@ -168,7 +171,6 @@
     "assets/favicon.ico",
     "assets/favicon.ico.crdownload",
     "assets/images/avatar.gif",
-    "assets/images/avatar.gif.crdownload",
     "assets/images/tim.26.10.2023.19.55.34.png.md",
     "assets/images/2022-12-31-new/tim.26.10.2023.19.59.25.png",
     "assets/images/tim.26.10.2023.19.55.34.png",
