@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-12-31-new.md",
+                "file": "_tabs/Расходники и запчасти.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-12-31-new.md",
+                "file": "_tabs/Расходники и запчасти.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-12-31-new.md",
+                "file": "_tabs/Расходники и запчасти.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-12-31-new.md"
+                "file": "_tabs/Расходники и запчасти.md"
               }
             }
           }
@@ -148,11 +148,13 @@
   },
   "active": "db32d07e382e01a7",
   "lastOpenFiles": [
+    "assets/images/tim.26.10.2023.19.55.34.png",
+    "_posts/2022-12-31-new.md",
+    "assets/images/tim.26.10.2023.19.55.12.png",
     "_tabs/Полезное.md",
     "assets/images/_tabs",
     "assets/images/_tabs/tim.26.10.2023.19.51.44.png",
     "assets/images/_posts/tim.26.10.2023.19.51.11.png",
-    "_posts/2022-12-31-new.md",
     "assets/images/_posts",
     "assets/images/_posts/tim.26.10.2023.19.50.09.png",
     "README.md",
@@ -169,7 +171,6 @@
     "assets/images/2022-12-31-new/tim-2022-12-31-new-26.10.2023.04.52.55.png.md",
     "assets/images/2022-12-31-new/tim-2022-12-31-new-26.10.2023.04.59.01.png",
     "assets/images/2022-12-31-new/tim-2022-12-31-new-26.10.2023.04.50.27.png.md",
-    "assets/images/2022-12-31-new/tim-2022-12-31-new-26.10.2023.04.52.55.png",
     "assets/images/2022-12-31-new/tim-2022-12-31-new-26.10.2023.04.50.27.png 1.md",
     "assets/_posts/2022-12-31-new",
     "assets/_posts",

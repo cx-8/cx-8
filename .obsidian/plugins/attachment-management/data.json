@@ -2,7 +2,7 @@
   "attachPath": {
     "attachmentRoot": "//assets/",
     "saveAttE": "obsFolder",
-    "attachmentPath": "${parent}",
+    "attachmentPath": "",
     "attachFormat": "tim.${date}",
     "type": "GLOBAL",
     "extensionOverride": []
