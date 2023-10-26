@@ -16,7 +16,7 @@ timezone: Europe/Moscow
 
 title: Mazda CX-8 # the main title
 
-tagline: Полезная информация  # it will display as the sub-title
+tagline: Клуб владельцев  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Mazda CX-8 Полезная информация.
@@ -73,7 +73,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "https://im3.ezgif.com/tmp/ezgif-3-2545504b74.gif"
+avatar: "https://cx-8.ru/assets/images/avatar.gif"
 # boolean type, the global switch for TOC in posts.
 toc: true
 
