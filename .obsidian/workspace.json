@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tabs/Про CX-8.md",
+                "file": "_tabs/categories.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_tabs/Про CX-8.md",
+                "file": "_tabs/categories.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_tabs/Про CX-8.md",
+                "file": "_tabs/categories.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_tabs/Про CX-8.md"
+                "file": "_tabs/categories.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "db32d07e382e01a7",
   "lastOpenFiles": [
+    "_tabs/Инструкции.md",
+    "_tabs/categories.md",
+    "_tabs/Про CX-8.md",
+    "_tabs/Типовые проблемы.md",
+    "_tabs/Полезное.md",
     "assets/images/Про CX-8/tim.26.10.2023.23.00.58.png",
     "assets/images/Про CX-8/tim.26.10.2023.23.00.52.png",
     "assets/images/Про CX-8/tim.26.10.2023.23.00.43.png",
@@ -158,19 +163,13 @@
     "assets/images/Про CX-8/tim.26.10.2023.23.00.16.png",
     "assets/images/Про CX-8/tim.26.10.2023.23.00.12.png",
     "assets/images/Про CX-8/tim.26.10.2023.23.00.06.png",
-    "assets/images/Про CX-8/tim.26.10.2023.23.00.01.png",
     "assets/images/Про CX-8",
-    "_tabs/Полезное.md",
-    "_tabs/Про CX-8.md",
     "_tabs/Про авто.md",
     "_tabs/Расходники и запчасти.md",
     "assets/images/Про CX-8/tim.26.10.2023.22.30.30.png.md",
     "assets/images/Про CX-8/tim.26.10.2023.22.30.47.png.md",
     "assets/images/Про авто",
     "_posts/2022-12-31-new.md",
-    "_tabs/Типовые проблемы.md",
-    "_tabs/Категории.md",
-    "_tabs/Инструкции.md",
     "assets/img/favicons/favicon.ico",
     "assets/img/favicon.ico",
     "assets/img/favicons",
