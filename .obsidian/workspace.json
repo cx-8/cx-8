@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tabs/categories.md",
+                "file": "_tabs/parts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_tabs/categories.md",
+                "file": "_tabs/parts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_tabs/categories.md",
+                "file": "_tabs/parts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_tabs/categories.md"
+                "file": "_tabs/parts.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "db32d07e382e01a7",
   "lastOpenFiles": [
-    "_tabs/specs.md",
+    "_tabs/manuals.md",
     "_tabs/categories.md",
+    "_tabs/useful.md",
+    "_tabs/parts.md",
+    "_tabs/problems.md",
+    "_tabs/specs.md",
     "assets/images/specs",
-    "_tabs/Типовые проблемы.md",
-    "_tabs/Инструкции.md",
-    "_tabs/Полезное.md",
     "assets/images/specs/tim.26.10.2023.23.00.58.png",
     "assets/images/specs/tim.26.10.2023.23.00.52.png",
     "assets/images/specs/tim.26.10.2023.23.00.43.png",
@@ -166,7 +167,6 @@
     "assets/images/specs/tim.26.10.2023.23.00.06.png",
     "assets/images/Про CX-8",
     "_tabs/Про авто.md",
-    "_tabs/Расходники и запчасти.md",
     "assets/images/Про CX-8/tim.26.10.2023.22.30.30.png.md",
     "assets/images/Про CX-8/tim.26.10.2023.22.30.47.png.md",
     "assets/images/Про авто",
