@@ -4,5 +4,13 @@ order: 4
 title: Инструкции
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+
+
+Excel-калькулятор параметров для конфигурации блоков через Forscan (v7.00)
+Видеоинструкция по ссылке: https://youtu.be/hHsMJp-P_ss
+
+![](assets/images/Mazda%20SkyActiv%20OBD-II%20calc%20(FORScan)%20v7.00.xlsx)
+
+
+Руководство пользователя на русском Правый руль рестайл
+![](assets/images/cx-8_kho_RUS.pdf)
