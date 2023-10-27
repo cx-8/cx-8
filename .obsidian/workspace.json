@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tabs/parts.md",
-                "mode": "source",
+                "file": "_tabs/specs.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_tabs/parts.md",
+                "file": "_tabs/specs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_tabs/parts.md",
+                "file": "_tabs/specs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_tabs/parts.md"
+                "file": "_tabs/specs.md"
               }
             }
           }
@@ -148,12 +148,15 @@
   },
   "active": "db32d07e382e01a7",
   "lastOpenFiles": [
+    "_tabs/useful.md",
+    "_tabs/specs.md",
+    "_tabs/problems.md",
+    "_tabs/parts.md",
     "_tabs/manuals.md",
     "_tabs/categories.md",
-    "_tabs/useful.md",
-    "_tabs/parts.md",
-    "_tabs/problems.md",
-    "_tabs/specs.md",
+    "README.md",
+    "assets/images/README",
+    "assets/images/README/tim.27.10.2023.17.49.28.png",
     "assets/images/specs",
     "assets/images/specs/tim.26.10.2023.23.00.58.png",
     "assets/images/specs/tim.26.10.2023.23.00.52.png",
@@ -164,7 +167,6 @@
     "assets/images/specs/tim.26.10.2023.23.00.21.png",
     "assets/images/specs/tim.26.10.2023.23.00.16.png",
     "assets/images/specs/tim.26.10.2023.23.00.12.png",
-    "assets/images/specs/tim.26.10.2023.23.00.06.png",
     "assets/images/Про CX-8",
     "_tabs/Про авто.md",
     "assets/images/Про CX-8/tim.26.10.2023.22.30.30.png.md",
@@ -177,9 +179,7 @@
     "assets/img/Новая папка",
     "assets/img",
     "assets/Новая папка",
-    "assets/favicon.ico",
     "assets/images/tim.26.10.2023.19.55.34.png.md",
-    "README.md",
     "assets/images/2022-12-31-new/tim.26.10.2023.19.45.03.jpg.md",
     "assets/images/2022-12-31-new/tim-2022-12-31-new-26.10.2023.04.52.55.png.md",
     "assets/images/2022-12-31-new/tim-2022-12-31-new-26.10.2023.04.50.27.png.md",
