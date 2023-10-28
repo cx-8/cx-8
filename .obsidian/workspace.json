@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tabs/parts.md",
+                "file": "_tabs/manuals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_tabs/parts.md",
+                "file": "_tabs/manuals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_tabs/parts.md",
+                "file": "_tabs/manuals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_tabs/parts.md"
+                "file": "_tabs/manuals.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "db32d07e382e01a7",
   "lastOpenFiles": [
-    "_tabs/manuals.md",
     "_tabs/parts.md",
+    "_tabs/manuals.md",
     "_tabs/problems.md",
     "_tabs/specs.md",
     "_tabs/useful.md",

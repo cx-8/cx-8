@@ -8,7 +8,6 @@ title: Инструкции
 
 Excel-калькулятор параметров для конфигурации блоков через Forscan (v7.00)
 Видеоинструкция по ссылке:
-{% include embed/{Platform}.html id='{hHsMJp-P_ss}' %}
 
 
 
