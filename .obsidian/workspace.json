@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-10-welcome.md",
+                "file": "_tabs/parts.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-10-welcome.md",
+                "file": "_tabs/parts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-10-welcome.md",
+                "file": "_tabs/parts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-10-welcome.md"
+                "file": "_tabs/parts.md"
               }
             }
           }
@@ -148,16 +148,17 @@
   },
   "active": "db32d07e382e01a7",
   "lastOpenFiles": [
+    "_tabs/manuals.md",
+    "_tabs/parts.md",
+    "_tabs/problems.md",
+    "_tabs/specs.md",
+    "_tabs/useful.md",
+    "_posts/2023-10-10-welcome.md",
     "assets/images/2023-10-10-welcome",
     "assets/images/2023-10-10-welcome/tim.29.10.2023.01.14.31.png",
     "assets/images/README/tim.27.10.2023.17.49.28.png",
     "assets/images/2022-12-31-new/tim.26.10.2023.19.59.25.png",
-    "_posts/2023-10-10-welcome.md",
     "_tabs/categories.md",
-    "_tabs/specs.md",
-    "_tabs/problems.md",
-    "_tabs/parts.md",
-    "_tabs/manuals.md",
     "assets/images/specs/tim.26.10.2023.22.59.56.png",
     "assets/images/specs/tim.26.10.2023.23.00.01.png",
     "assets/images/specs/tim.26.10.2023.22.59.49.png",
@@ -167,7 +168,6 @@
     "assets/images/~$Mazda SkyActiv OBD-II calc (FORScan) v7.00.xlsx",
     "assets/images/cx-8_kho_RUS.pdf",
     "assets/images/Mazda SkyActiv OBD-II calc (FORScan) v7.00.xlsx",
-    "_tabs/useful.md",
     "README.md",
     "assets/images/README",
     "assets/images/specs",
@@ -179,7 +179,6 @@
     "assets/images/Про авто",
     "assets/img/favicons/favicon.ico",
     "assets/img/favicon.ico",
-    "assets/img/favicons",
     "assets/images/tim.26.10.2023.19.55.34.png.md",
     "assets/images/2022-12-31-new/tim.26.10.2023.19.45.03.jpg.md",
     "assets/images/2022-12-31-new/tim-2022-12-31-new-26.10.2023.04.52.55.png.md",
