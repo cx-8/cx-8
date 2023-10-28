@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tabs/manuals.md",
+                "file": "_posts/2023-10-10-welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_tabs/manuals.md",
+                "file": "_posts/2023-10-10-welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_tabs/manuals.md",
+                "file": "_posts/2023-10-10-welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_tabs/manuals.md"
+                "file": "_posts/2023-10-10-welcome.md"
               }
             }
           }
@@ -148,38 +148,38 @@
   },
   "active": "db32d07e382e01a7",
   "lastOpenFiles": [
-    "assets/images/~$Mazda SkyActiv OBD-II calc (FORScan) v7.00.xlsx",
-    "assets/images/cx-8_kho_RUS.pdf",
-    "assets/images/Mazda SkyActiv OBD-II calc (FORScan) v7.00.xlsx",
+    "assets/images/2023-10-10-welcome",
+    "assets/images/2023-10-10-welcome/tim.29.10.2023.01.14.31.png",
+    "assets/images/README/tim.27.10.2023.17.49.28.png",
+    "assets/images/2022-12-31-new/tim.26.10.2023.19.59.25.png",
+    "_posts/2023-10-10-welcome.md",
     "_tabs/categories.md",
-    "_tabs/useful.md",
     "_tabs/specs.md",
     "_tabs/problems.md",
     "_tabs/parts.md",
     "_tabs/manuals.md",
+    "assets/images/specs/tim.26.10.2023.22.59.56.png",
+    "assets/images/specs/tim.26.10.2023.23.00.01.png",
+    "assets/images/specs/tim.26.10.2023.22.59.49.png",
+    "assets/images/specs/tim.26.10.2023.22.59.05.png",
+    "assets/images/specs/tim.26.10.2023.22.58.51.png",
+    "assets/images/specs/tim.26.10.2023.22.58.15.png",
+    "assets/images/~$Mazda SkyActiv OBD-II calc (FORScan) v7.00.xlsx",
+    "assets/images/cx-8_kho_RUS.pdf",
+    "assets/images/Mazda SkyActiv OBD-II calc (FORScan) v7.00.xlsx",
+    "_tabs/useful.md",
     "README.md",
     "assets/images/README",
-    "assets/images/README/tim.27.10.2023.17.49.28.png",
     "assets/images/specs",
     "assets/images/specs/tim.26.10.2023.23.00.58.png",
-    "assets/images/specs/tim.26.10.2023.23.00.52.png",
-    "assets/images/specs/tim.26.10.2023.23.00.43.png",
-    "assets/images/specs/tim.26.10.2023.23.00.38.png",
-    "assets/images/specs/tim.26.10.2023.23.00.31.png",
-    "assets/images/specs/tim.26.10.2023.23.00.26.png",
-    "assets/images/specs/tim.26.10.2023.23.00.21.png",
-    "assets/images/specs/tim.26.10.2023.23.00.16.png",
-    "assets/images/specs/tim.26.10.2023.23.00.12.png",
     "assets/images/Про CX-8",
     "_tabs/Про авто.md",
     "assets/images/Про CX-8/tim.26.10.2023.22.30.30.png.md",
     "assets/images/Про CX-8/tim.26.10.2023.22.30.47.png.md",
     "assets/images/Про авто",
-    "_posts/2022-12-31-new.md",
     "assets/img/favicons/favicon.ico",
     "assets/img/favicon.ico",
     "assets/img/favicons",
-    "assets/img/Новая папка",
     "assets/images/tim.26.10.2023.19.55.34.png.md",
     "assets/images/2022-12-31-new/tim.26.10.2023.19.45.03.jpg.md",
     "assets/images/2022-12-31-new/tim-2022-12-31-new-26.10.2023.04.52.55.png.md",
