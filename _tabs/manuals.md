@@ -19,7 +19,7 @@ u can [get the PDF]()   dddd
 ## Магнитола
 
 
-[<i class="fas fa-file-pdf" aria-hidden="true"></i> MJ317D-L/W (`RU`)](assets/files/cx-8_kho_RUS.pdf)
+[<i class="fas fa-file-pdf" aria-hidden="true"></i> MJ317D-L/W (`RU`)](/assets/files/cx-8_kho_RUS.pdf)
 
 
 ## Автомобиль
