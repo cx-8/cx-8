@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tabs/parts.md",
+                "file": "_tabs/manuals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_tabs/parts.md",
+                "file": "_tabs/manuals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_tabs/parts.md",
+                "file": "_tabs/manuals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_tabs/parts.md"
+                "file": "_tabs/manuals.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "db32d07e382e01a7",
   "lastOpenFiles": [
+    "_tabs/useful.md",
+    "_tabs/parts.md",
     "_tabs/manuals.md",
     "assets/images/cx-8_kho_RUS.pdf.md",
     "assets/images/~$Mazda SkyActiv OBD-II calc (FORScan) v7.00.xlsx",
@@ -155,8 +157,6 @@
     "assets/files",
     "_tabs/problems.md",
     "_tabs/specs.md",
-    "_tabs/useful.md",
-    "_tabs/parts.md",
     "assets/mydoc.pdf.md",
     "_posts/2023-10-10-welcome.md",
     "assets/images/2023-10-10-welcome",
