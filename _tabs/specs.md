@@ -1,9 +1,9 @@
 ---
-# the default layout is 'page'
 icon: fas fa-car
 order: 9
 title: Mazda CX-8 Спецификации
 ---
+
 
 # Mazda CX-8 2017, джип/suv 5 дв., 1 поколение (09.2017 - 11.2022) - технические характеристики и комплектации
 
@@ -20,10 +20,27 @@ title: Mazda CX-8 Спецификации
 
 В зависимости от уровня оснащения в список комплектации Mazda CX-8 могут входить: адаптивные светодиодные фары, 17- или 19-дюймовые диски, кожаный салон, мультимедийный комплекс с сенсорным экраном, проекционный дисплей, системы кругового видеообзора, распознавания дорожных знаков, автоматического экстренного торможения, предупреждения о выходе из занимаемой полосы, мониторинга «слепых» зон. К 2019 году система безопасности CX-8 научилась распознавать пешеходов в темное время суток.
 
-# Комплектации Mazda CX-8
+## Комплектации Mazda CX-8
 
 
-# Галерея
+## Обзоры
+
+{% include embed/youtube.html id='mcJ7l8LIC00' %}
+
+{% include embed/youtube.html id='ZEVdEVpt6o4' %}
+
+{% include embed/youtube.html id='TJACpd6DTVI' %}
+
+{% include embed/youtube.html id='c-rPULkj7i4' %}
+
+{% include embed/youtube.html id='Balreaj8Yqs' %}
+
+{% include embed/youtube.html id='xNWsecKXlt8' %}
+
+{% include embed/youtube.html id='nrUsPAscdME' %}
+
+
+## Галерея
 
 ![](/assets/images/specs/tim.26.10.2023.22.58.51.png)
 ![](/assets/images/specs/tim.26.10.2023.22.58.59.png)
