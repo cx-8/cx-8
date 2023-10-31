@@ -1,4 +1,5 @@
 ---
+layout: post
 icon: fas fa-car
 order: 9
 title: Mazda CX-8 Спецификации
