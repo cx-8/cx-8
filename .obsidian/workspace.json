@@ -11,8 +11,12 @@
             "id": "42fa7c0c37088a60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2023-01-01-welcome.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/images/2023-01-01-welcome/tim.04.10.2024.01.57.34.png",
+                "file": "_posts/2023-01-01-welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/images/2023-01-01-welcome/tim.04.10.2024.01.57.34.png",
+                "file": "_posts/2023-01-01-welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/images/2023-01-01-welcome/tim.04.10.2024.01.57.34.png"
+                "file": "_posts/2023-01-01-welcome.md"
               }
             }
           }
@@ -142,15 +146,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "25a92d6ff784d832",
+  "active": "42fa7c0c37088a60",
   "lastOpenFiles": [
+    "assets/images/2023-01-01-welcome/tim.04.10.2024.01.57.34.png",
     "_site/posts/welcome/index.html",
     "_site/posts/welcome",
     "_site/assets/images/2023-01-01-welcome/tim.04.10.2024.01.57.34.png",
     "_site/assets/images/2023-01-01-welcome",
     "_posts/2023-01-01-welcome.md",
     "assets/images/2023-01-01-welcome",
-    "assets/images/2023-01-01-welcome/tim.04.10.2024.01.57.34.png",
     "README.md"
   ]
 }
