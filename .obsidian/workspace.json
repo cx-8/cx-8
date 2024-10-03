@@ -11,8 +11,12 @@
             "id": "42fa7c0c37088a60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           }
         ]
@@ -140,10 +148,11 @@
   },
   "active": "42fa7c0c37088a60",
   "lastOpenFiles": [
+    "_includes/sidebar.html",
+    "_posts/2024-10-04-new-first.md",
     "_includes/_sidebar.html",
     "_site/posts/new-first/index.html",
     "_site/posts/new-first",
-    "_posts/2024-10-04-new-first.md",
     "_posts/2024-01-01-welcome-first.md",
     "_site/posts/welcome-first/index.html",
     "_site/posts/welcome-first",
@@ -157,7 +166,6 @@
     "assets/images/avatar.gif",
     "assets/images/2023-01-01-welcome/tim.04.10.2024.01.57.34.png",
     "_site/posts/welcome/index.html",
-    "_site/posts/welcome",
     "_site/assets/images/2023-01-01-welcome/tim.04.10.2024.01.57.34.png",
     "README.md"
   ]
