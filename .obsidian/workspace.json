@@ -140,6 +140,7 @@
   },
   "active": "42fa7c0c37088a60",
   "lastOpenFiles": [
+    "_includes/_sidebar.html",
     "_site/posts/new-first/index.html",
     "_site/posts/new-first",
     "_posts/2024-10-04-new-first.md",
@@ -158,7 +159,6 @@
     "_site/posts/welcome/index.html",
     "_site/posts/welcome",
     "_site/assets/images/2023-01-01-welcome/tim.04.10.2024.01.57.34.png",
-    "_site/assets/images/2023-01-01-welcome",
     "README.md"
   ]
 }
