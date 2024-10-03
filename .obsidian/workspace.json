@@ -11,8 +11,10 @@
             "id": "2fc4ed32f7b99203",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "assets/images/2023-01-01-welcome/tim.04.10.2024.01.57.34.png"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "assets/images/2023-01-01-welcome/tim.04.10.2024.01.57.34.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "assets/images/2023-01-01-welcome/tim.04.10.2024.01.57.34.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "assets/images/2023-01-01-welcome/tim.04.10.2024.01.57.34.png"
+              }
             }
           }
         ]
@@ -138,6 +144,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "2fc4ed32f7b99203",
-  "lastOpenFiles": []
+  "active": "25a92d6ff784d832",
+  "lastOpenFiles": [
+    "_site/posts/welcome/index.html",
+    "_site/posts/welcome",
+    "_site/assets/images/2023-01-01-welcome/tim.04.10.2024.01.57.34.png",
+    "_site/assets/images/2023-01-01-welcome",
+    "_posts/2023-01-01-welcome.md",
+    "assets/images/2023-01-01-welcome",
+    "assets/images/2023-01-01-welcome/tim.04.10.2024.01.57.34.png",
+    "README.md"
+  ]
 }

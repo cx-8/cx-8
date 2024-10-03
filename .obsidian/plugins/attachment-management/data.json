@@ -1,0 +1,19 @@
+{
+  "attachPath": {
+    "attachmentRoot": "",
+    "saveAttE": "obsFolder",
+    "attachmentPath": "${notename}",
+    "attachFormat": "tim.${date}",
+    "type": "GLOBAL",
+    "extensionOverride": []
+  },
+  "dateFormat": "DD.MM.YYYY.HH.mm.ss",
+  "excludeExtensionPattern": "",
+  "autoRenameAttachment": true,
+  "excludedPaths": "",
+  "excludePathsArray": [],
+  "excludeSubpaths": true,
+  "originalNameStorage": [],
+  "overridePath": {},
+  "disableNotification": false
+}
