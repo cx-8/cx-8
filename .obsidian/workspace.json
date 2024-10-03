@@ -11,12 +11,8 @@
             "id": "42fa7c0c37088a60",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-01-01-welcome.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-01-01-welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-01-01-welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023-01-01-welcome.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,6 +140,14 @@
   },
   "active": "42fa7c0c37088a60",
   "lastOpenFiles": [
+    "_site/posts/new-first/index.html",
+    "_site/posts/new-first",
+    "_posts/2024-10-04-new-first.md",
+    "_posts/2024-01-01-welcome-first.md",
+    "_site/posts/welcome-first/index.html",
+    "_site/posts/welcome-first",
+    "_posts/2023-01-01-welcome-first.md",
+    "_posts/2023-01-01-welcome.md",
     "assets/img/favicons/favicon.ico",
     "assets/img/favicons",
     "assets/img",
@@ -159,8 +159,6 @@
     "_site/posts/welcome",
     "_site/assets/images/2023-01-01-welcome/tim.04.10.2024.01.57.34.png",
     "_site/assets/images/2023-01-01-welcome",
-    "_posts/2023-01-01-welcome.md",
-    "assets/images/2023-01-01-welcome",
     "README.md"
   ]
 }
