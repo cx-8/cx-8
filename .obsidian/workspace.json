@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d14965f0d53a0f0f",
+        "id": "ebd0b6bc35588b63",
         "type": "tabs",
         "children": [
           {
-            "id": "2fc4ed32f7b99203",
+            "id": "42fa7c0c37088a60",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/images/2023-01-01-welcome/tim.04.10.2024.01.57.34.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
