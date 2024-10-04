@@ -26,15 +26,17 @@
         </a>
       </li>
            <!-- New button for manual -->
-        <li class="nav-item">
-          <a href="https://cx-8.ru/posts/manuals/" class="nav-link" rel="noopener noreferrer">
-            <i class="fas fa-book"></i>
-            <span>  ИНСТРУКЦИИ</span>
-          </a>
-        </li>
-        <!-- End of new button -->
-      <!-- the real tabs -->
-      {% for tab in site.tabs %}
+<!-- New button for manual -->
+<li class="nav-item{% if page.url == '/posts/manuals/' %} active{% endif %}">
+  <a href="/posts/manuals/" class="nav-link" rel="noopener noreferrer">
+    <i class="fa-fw fas fa-book"></i>
+    <span>ИНСТРУКЦИИ</span>
+  </a>
+</li>
+<!-- End button Manual -->
+
+        <!-- End button Manual -->
+              {% for tab in site.tabs %}
         <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
           <a href="{{ tab.url | relative_url }}" class="nav-link">
             <i class="fa-fw {{ tab.icon }}"></i>
