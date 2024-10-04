@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ebd0b6bc35588b63",
+        "id": "792d6405962b5d7d",
         "type": "tabs",
         "children": [
           {
-            "id": "42fa7c0c37088a60",
+            "id": "c40161e147508bef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2023-01-01-new-first.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-01-01-new-first.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-01-01-new-first.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/2023-01-01-new-first.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,24 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "42fa7c0c37088a60",
+  "active": "c40161e147508bef",
   "lastOpenFiles": [
+    "_posts/2023-05-01-specs.md",
+    "_site/assets/images/2023-05-01-specs/tim.04.10.2024.21.47.53.png",
+    "assets/images/2023-05-01-specs/tim.04.10.2024.21.47.53.png",
+    "_site/assets/images/2023-05-01-specs/tim.04.10.2024.21.46.28.png",
+    "_site/assets/images/Pasted image 20241004214626.png",
+    "assets/images/2023-05-01-specs/tim.04.10.2024.21.46.28.png",
+    "_site/assets/images/2023-05-01-specs/tim.04.10.2024.21.45.59.png",
+    "_site/assets/images/2023-05-01-specs",
+    "assets/images/2023-05-01-specs",
+    "_site/assets/images/Pasted image 20241004214557.png",
+    "assets/images/2023-05-01-specs/tim.04.10.2024.21.45.59.png",
+    "assets/images/README/tim.27.10.2023.17.49.28.png",
+    "assets/images/avatar.gif",
+    "_posts/2023-01-01-new-first.md",
     "_site/posts/specs/index.html",
     "_site/posts/specs",
-    "_posts/2023-05-01-specs.md",
     "_site/posts/problems-copy/index.html",
     "_site/posts/problems-copy",
     "_posts/2023-04-01-problems copy.md",
@@ -160,24 +165,10 @@
     "_site/posts/parts-copy/index.html",
     "_site/posts/parts-copy",
     "_posts/2023-03-01-parts copy.md",
-    "_site/posts/parts/index.html",
-    "_site/posts/parts",
     "_posts/2023-03-01-parts.md",
-    "_site/posts/new-first-copy/index.html",
     "_posts/2023-01-01-new-first copy.md",
     "_posts/2023-02-01-manuals.md",
-    "_posts/2023-01-01-new-first.md",
-    "_site/assets/images/2023-02-01-manuals/tim.04.10.2024.16.38.59.jpg",
-    "_site/assets/images/photo_2024-10-04_16-38-17.jpg",
-    "assets/images/2023-02-01-manuals/tim.04.10.2024.16.38.59.jpg",
-    "assets/images/Pasted image 20241004162951.png",
-    "_site/assets/images/Pasted image 20241004162951.png",
-    "assets/images/Pasted image 20241004162834.png",
-    "_site/assets/images/Pasted image 20241004162834.png",
     "README.md",
-    "assets/images/README/tim.27.10.2023.17.49.28.png",
-    "assets/images/2023-01-01-new-first/tim.04.10.2024.11.01.32.png",
-    "assets/images/avatar.gif",
     "_posts/2024-10-04-new-first.md",
     "_posts/2024-01-01-welcome-first.md",
     "_posts/2023-01-01-welcome-first.md",
