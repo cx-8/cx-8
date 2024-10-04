@@ -26,16 +26,37 @@
         </a>
       </li>
            <!-- New button for manual -->
-<!-- New button for manual -->
 <li class="nav-item{% if page.url == '/posts/manuals/' %} active{% endif %}">
   <a href="/posts/manuals/" class="nav-link" rel="noopener noreferrer">
     <i class="fa-fw fas fa-book"></i>
     <span>ИНСТРУКЦИИ</span>
   </a>
 </li>
-<!-- End button Manual -->
-
         <!-- End button Manual -->
+           <!-- New button for parts -->
+<li class="nav-item{% if page.url == '/posts/parts/' %} active{% endif %}">
+  <a href="/posts/parts/" class="nav-link" rel="noopener noreferrer">
+    <i class="fa-fw fas fa-oil-can"></i>
+    <span>ЗАПЧАСТИ</span>
+  </a>
+</li>
+        <!-- End button PARTS -->
+           <!-- New button for PROBLEMSts -->
+<li class="nav-item{% if page.url == '/posts/problems/' %} active{% endif %}">
+  <a href="/posts/problems/" class="nav-link" rel="noopener noreferrer">
+    <i class="fa-fw fas fa-question"></i>
+    <span>ПРОБЛЕМЫ</span>
+  </a>
+</li>
+        <!-- End button PROBLEMS -->
+           <!-- New button for SPECS -->
+<li class="nav-item{% if page.url == '/posts/specs/' %} active{% endif %}">
+  <a href="/posts/specs/" class="nav-link" rel="noopener noreferrer">
+    <i class="fa-fw fas fa-car"></i>
+    <span>СПЕЦИФИКАЦИИ</span>
+  </a>
+</li>
+        <!-- End button SPECS -->
               {% for tab in site.tabs %}
         <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
           <a href="{{ tab.url | relative_url }}" class="nav-link">
