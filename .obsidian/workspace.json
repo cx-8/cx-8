@@ -11,9 +11,11 @@
             "id": "42fa7c0c37088a60",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/images/README/tim.27.10.2023.17.49.28.png"
+                "file": "_posts/2023-01-01-new-first.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/images/README/tim.27.10.2023.17.49.28.png",
+                "file": "_posts/2023-01-01-new-first.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/images/README/tim.27.10.2023.17.49.28.png",
+                "file": "_posts/2023-01-01-new-first.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/images/README/tim.27.10.2023.17.49.28.png"
+                "file": "_posts/2023-01-01-new-first.md"
               }
             }
           }
@@ -146,31 +148,32 @@
   },
   "active": "42fa7c0c37088a60",
   "lastOpenFiles": [
-    "assets/images/avatar.gif",
-    "assets/images/2023-01-01-new-first/tim.04.10.2024.11.01.32.png",
+    "_posts/2023-02-01-manuals.md",
     "_posts/2023-01-01-new-first.md",
-    "assets/images/Pasted image 20241004105953.png",
-    "assets/images/Pasted image 20241004030837.png",
-    "_site/assets/images/2023-01-01-new-first/tim.04.10.2024.11.01.32.png",
+    "_site/assets/images/2023-02-01-manuals/tim.04.10.2024.16.38.59.jpg",
+    "_site/assets/images/2023-02-01-manuals",
+    "assets/images/2023-02-01-manuals",
+    "_site/assets/images/photo_2024-10-04_16-38-17.jpg",
+    "assets/images/2023-02-01-manuals/tim.04.10.2024.16.38.59.jpg",
+    "assets/images/Pasted image 20241004162951.png",
+    "_site/assets/images/Pasted image 20241004162951.png",
+    "assets/images/Pasted image 20241004162834.png",
+    "_site/assets/images/Pasted image 20241004162834.png",
+    "_site/posts/manuals/index.html",
+    "_site/posts/manuals",
+    "README.md",
+    "assets/images/README/tim.27.10.2023.17.49.28.png",
+    "assets/images/2023-01-01-new-first/tim.04.10.2024.11.01.32.png",
+    "assets/images/avatar.gif",
     "_site/assets/images/2023-01-01-new-first",
     "assets/images/2023-01-01-new-first",
-    "_site/assets/images/Pasted image 20241004110130.png",
-    "_site/assets/images/Pasted image 20241004105953.png",
-    "README.md",
-    "_site/assets/images/Pasted image 20241004030837.png",
-    "assets/images/2023-01-01-welcome/tim.04.10.2024.01.57.34.png",
     "_includes/sidebar.html",
     "_posts/2024-10-04-new-first.md",
     "_includes/_sidebar.html",
     "_site/posts/new-first/index.html",
     "_site/posts/new-first",
     "_posts/2024-01-01-welcome-first.md",
-    "_site/posts/welcome-first/index.html",
-    "_site/posts/welcome-first",
     "_posts/2023-01-01-welcome-first.md",
-    "_posts/2023-01-01-welcome.md",
-    "assets/img/favicons/favicon.ico",
-    "assets/img/favicons",
-    "_site/assets/images/avatar.gif"
+    "_posts/2023-01-01-welcome.md"
   ]
 }
