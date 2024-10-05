@@ -30,16 +30,16 @@ panel:
 copyright:
   # Shown at the bottom of the post
   license:
-    template: Авторский пост защищен лицензией :LICENSE_NAME.
-    name: CC BY 4.0
-    link: https://creativecommons.org/licenses/by/4.0/
+    template: Присоединяйтесь к нашему :LICENSE_NAME.
+    name: Telegram чату
+    link: https://t.me/Mazda_CX_8
 
   # Displayed in the footer
   brief: Некоторые права защищены.
   verbose: >-
     Если не указано иное, авторские посты на этом сайте защищены лицензией Creative Commons Attribution 4.0 International (CC BY 4.0).
-
-meta: Присоединяйтесь к нашему Telegram чату
+# Текст в подвале
+meta: <a href="/about">Пожертвовать на поддержку сайта</a>
 
 not_found:
   statement: Извините, мы перепутали URL-адрес или он указывает на что-то несуществующее.
