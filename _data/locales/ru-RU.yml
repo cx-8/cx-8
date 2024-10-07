@@ -39,7 +39,7 @@ copyright:
   verbose: >-
     Если не указано иное, авторские посты на этом сайте защищены лицензией Creative Commons Attribution 4.0 International (CC BY 4.0).
 # Текст в подвале
-meta: <a href="/about">Пожертвовать на поддержку сайта</a>
+meta: <a href="/post/about/">Пожертвовать на поддержку сайта</a>
 
 not_found:
   statement: Извините, мы перепутали URL-адрес или он указывает на что-то несуществующее.

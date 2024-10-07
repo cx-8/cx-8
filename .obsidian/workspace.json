@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-06-01-aboutus.md",
+                "file": "_posts/2023-05-01-specs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-06-01-aboutus.md",
+                "file": "_posts/2023-05-01-specs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-06-01-aboutus.md",
+                "file": "_posts/2023-05-01-specs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-06-01-aboutus.md"
+                "file": "_posts/2023-05-01-specs.md"
               }
             }
           }
@@ -146,14 +146,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "25a92d6ff784d832",
+  "active": "c40161e147508bef",
   "lastOpenFiles": [
+    "_site/posts/about/index.html",
+    "_site/posts/about",
+    "_posts/2023-06-01-aboutus.md",
+    "_posts/2023-06-01-about.md",
     "_site/posts/aboutus/index.html",
     "_site/posts/aboutus",
     "_posts/2023-05-01-specs.md",
-    "_posts/2023-06-01-aboutus.md",
-    "_site/posts/about/index.html",
-    "_site/posts/about",
     "_site/assets/images/2023-01-01-welcome/tim.07.10.2024.18.12.57.png",
     "_tabs/categories.md",
     "_posts/2023-04-01-problems.md",
@@ -176,7 +177,6 @@
     "_site/assets/images/2023-03-01-parts",
     "assets/images/2023-03-01-parts",
     "_site/assets/images/Pasted image 20241004220731.png",
-    "_site/assets/images/2023-05-01-specs",
     "_posts/2023-04-01-problems copy.md",
     "_posts/2023-03-01-parts copy.md",
     "_posts/2023-01-01-new-first copy.md",
