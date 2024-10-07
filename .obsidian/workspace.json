@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tabs/about.md",
+                "file": "_posts/2023-06-01-about.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_tabs/about.md",
+                "file": "_posts/2023-06-01-about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_tabs/about.md",
+                "file": "_posts/2023-06-01-about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_tabs/about.md"
+                "file": "_posts/2023-06-01-about.md"
               }
             }
           }
@@ -148,9 +148,14 @@
   },
   "active": "c40161e147508bef",
   "lastOpenFiles": [
-    "_posts/2023-01-01-welcome.md",
-    "_tabs/about.md",
+    "_site/posts/about/index.html",
+    "_site/posts/about",
+    "_site/assets/images/2023-01-01-welcome/tim.07.10.2024.18.12.57.png",
+    "_tabs/categories.md",
+    "_posts/2023-06-01-about.md",
     "_posts/2023-05-01-specs.md",
+    "_posts/2023-04-01-problems.md",
+    "_posts/2023-01-01-welcome.md",
     "_posts/2023-02-01-manuals.md",
     "assets/images/2023-01-01-welcome/tim.07.10.2024.18.12.57.png",
     "assets/images/2023-05-01-specs/tim.04.10.2024.21.47.53.png",
@@ -158,7 +163,6 @@
     "assets/images/2023-05-01-specs/tim.04.10.2024.21.45.59.png",
     "assets/images/2023-03-01-parts/tim.04.10.2024.22.07.33.png",
     "assets/images/2023-02-01-manuals/tim.04.10.2024.16.38.59.jpg",
-    "_posts/2023-04-01-problems.md",
     "_site/posts/welcome/index.html",
     "_site/posts/welcome",
     "_site/assets/images/2023-01-01-welcome/tim.06.10.2024.21.44.16.png",
@@ -170,11 +174,9 @@
     "_site/assets/images/2023-03-01-parts",
     "assets/images/2023-03-01-parts",
     "_site/assets/images/Pasted image 20241004220731.png",
-    "_site/assets/images/2023-05-01-specs/tim.04.10.2024.21.47.53.png",
     "_site/assets/images/2023-05-01-specs",
     "assets/images/2023-05-01-specs",
     "_site/posts/specs/index.html",
-    "_site/posts/specs",
     "_posts/2023-04-01-problems copy.md",
     "_posts/2023-03-01-parts copy.md",
     "_posts/2023-01-01-new-first copy.md",

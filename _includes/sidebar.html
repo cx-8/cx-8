@@ -57,6 +57,14 @@
   </a>
 </li>
         <!-- End button SPECS -->
+                <!-- New button for ABOUT -->
+<li class="nav-item{% if page.url == '/posts/about/' %} active{% endif %}">
+  <a href="/posts/about/" class="nav-link" rel="noopener noreferrer">
+    <i class="fa-fw fas fa-info-circle"></i>
+    <span>ПРО НАС</span>
+  </a>
+</li>
+        <!-- End button ABOUT -->
               {% for tab in site.tabs %}
         <li class="nav-item{% if tab.url == page.url %}{{ " active" }}{% endif %}">
           <a href="{{ tab.url | relative_url }}" class="nav-link">
