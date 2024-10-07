@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-01-01-welcome.md",
+                "file": "_posts/2023-04-01-problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-01-01-welcome.md",
+                "file": "_posts/2023-04-01-problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-01-01-welcome.md",
+                "file": "_posts/2023-04-01-problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-01-01-welcome.md"
+                "file": "_posts/2023-04-01-problems.md"
               }
             }
           }
@@ -148,13 +148,18 @@
   },
   "active": "c40161e147508bef",
   "lastOpenFiles": [
-    "_posts/2023-03-01-parts.md",
-    "_posts/2023-02-01-manuals.md",
-    "_posts/2023-01-01-welcome.md",
+    "_site/posts/welcome/index.html",
+    "_site/posts/welcome",
+    "_site/assets/images/2023-01-01-welcome/tim.06.10.2024.21.44.16.png",
+    "_site/assets/images/2023-01-01-welcome",
     "assets/images/2023-01-01-welcome/tim.06.10.2024.21.44.16.png",
     "assets/images/2023-01-01-welcome",
-    "_posts/2023-04-01-problems.md",
+    "_posts/2023-01-01-welcome.md",
     "_posts/2023-05-01-specs.md",
+    "_posts/2023-04-01-problems.md",
+    "_posts/2023-03-01-parts.md",
+    "_posts/2023-02-01-manuals.md",
+    "_posts/2023-01-01-new-first.md",
     "_site/assets/images/2023-03-01-parts/tim.04.10.2024.22.07.33.png",
     "_site/assets/images/2023-03-01-parts",
     "assets/images/2023-03-01-parts",
@@ -165,15 +170,12 @@
     "_site/assets/images/2023-05-01-specs/tim.04.10.2024.21.46.28.png",
     "_site/assets/images/Pasted image 20241004214626.png",
     "assets/images/2023-05-01-specs/tim.04.10.2024.21.46.28.png",
-    "_site/assets/images/2023-05-01-specs/tim.04.10.2024.21.45.59.png",
     "_site/assets/images/2023-05-01-specs",
     "assets/images/2023-05-01-specs",
     "_site/posts/specs/index.html",
     "_site/posts/specs",
     "_site/posts/problems-copy/index.html",
-    "_site/posts/problems-copy",
     "_posts/2023-04-01-problems copy.md",
-    "_site/posts/problems/index.html",
     "_posts/2023-03-01-parts copy.md",
     "_posts/2023-01-01-new-first copy.md",
     "README.md",
