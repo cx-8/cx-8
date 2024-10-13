@@ -11,9 +11,11 @@
             "id": "c40161e147508bef",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/images/2023-02-01-manuals/tim.04.10.2024.16.38.59.jpg"
+                "file": "_posts/2023-05-01-specs.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/images/2023-02-01-manuals/tim.04.10.2024.16.38.59.jpg",
+                "file": "_posts/2023-05-01-specs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/images/2023-02-01-manuals/tim.04.10.2024.16.38.59.jpg",
+                "file": "_posts/2023-05-01-specs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/images/2023-02-01-manuals/tim.04.10.2024.16.38.59.jpg"
+                "file": "_posts/2023-05-01-specs.md"
               }
             }
           }
@@ -146,17 +148,18 @@
   },
   "active": "c40161e147508bef",
   "lastOpenFiles": [
+    "_posts/2023-04-01-problems.md",
+    "_posts/2023-05-01-specs.md",
+    "_posts/2023-01-01-welcome.md",
+    "_posts/2023-01-01-about.md",
+    "assets/images/2023-02-01-manuals/tim.04.10.2024.16.38.59.jpg",
     "assets/images/2023-03-01-parts/tim.04.10.2024.22.07.33.png",
     "assets/images/2023-05-01-specs/tim.04.10.2024.21.47.53.png",
     "assets/images/2023-05-01-specs/tim.04.10.2024.21.46.28.png",
     "assets/images/2023-05-01-specs/tim.04.10.2024.21.45.59.png",
-    "_posts/2023-01-01-welcome.md",
     "assets/images/2023-01-01-welcome/tim.07.10.2024.18.12.57.png",
-    "_posts/2023-01-01-about.md",
     "_posts/2023-02-01-manuals.md",
     "_posts/2023-03-01-parts.md",
-    "_posts/2023-04-01-problems.md",
-    "_posts/2023-05-01-specs.md",
     "_site/posts/about/index.html",
     "_site/posts/about",
     "_posts/2023-06-01-aboutus.md",
@@ -164,7 +167,6 @@
     "_site/posts/aboutus",
     "_site/assets/images/2023-01-01-welcome/tim.07.10.2024.18.12.57.png",
     "_tabs/categories.md",
-    "assets/images/2023-02-01-manuals/tim.04.10.2024.16.38.59.jpg",
     "_site/posts/welcome/index.html",
     "_site/posts/welcome",
     "_site/assets/images/2023-01-01-welcome/tim.06.10.2024.21.44.16.png",
