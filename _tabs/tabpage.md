@@ -10,6 +10,6 @@ title: Полезное
 {: .prompt-tip }
 
 
-Раз два
+Раз два четыре
 
 ![](assets/images/2023-02-01-manuals/tim.04.10.2024.16.38.59.jpg)
