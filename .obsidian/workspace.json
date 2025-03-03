@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-03-02-wrong-akb.md",
+                "file": "_posts/2023-05-01-specs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-02-wrong-akb"
+              "title": "2023-05-01-specs"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 372.5
   },
   "right": {
     "id": "f9bb755f484d2fd3",
@@ -170,19 +170,19 @@
   },
   "active": "cef37d5ad35a8750",
   "lastOpenFiles": [
+    "_posts/2023-01-01-welcome.md",
+    "_posts/2023-06-01-tabtest.md",
+    "_posts/2023-03-01-parts.md",
+    "_posts/2023-02-01-manuals.md",
+    "_posts/2023-01-01-about.md",
+    "_posts/2023-05-01-specs.md",
+    "_posts/2025-03-02-wrong-akb.md",
+    "_posts/2023-04-01-problems.md",
     "assets/images/Pasted image 20250303174051.png",
     "assets/images/Pasted image 20250303174323.png",
-    "_posts/2025-03-02-wrong-akb.md",
     "assets/images/2025-03-02-wrong-akb/tim.03.03.2025.17.50.37.png",
     "assets/images/2025-03-02-wrong-akb",
     "assets/images/2025-03-02-wrong-akb/tim.03.03.2025.17.50.07.png",
-    "_posts/2023-06-01-tabtest.md",
-    "_posts/2023-02-01-manuals.md",
-    "_posts/2023-01-01-welcome.md",
-    "_posts/2023-01-01-about.md",
-    "_posts/2023-03-01-parts.md",
-    "_posts/2023-04-01-problems.md",
-    "_posts/2023-05-01-specs.md",
     "_includes/comments.html",
     "_site/www.cx-8.ru/tabpage/index.html",
     "_site/www.cx-8.ru/tabpage",
