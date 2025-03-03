@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-05-01-specs.md",
+                "file": "_tabs/categories.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2023-05-01-specs"
+              "title": "categories"
             }
           }
         ]
@@ -168,16 +168,25 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "cef37d5ad35a8750",
+  "active": "25a92d6ff784d832",
   "lastOpenFiles": [
+    "_site/posts/wrong-akb/index.html",
+    "_site/posts/wrong-akb",
+    "_site/assets/images/2025-03-02-wrong-akb/tim.03.03.2025.17.50.37.png",
+    "_site/assets/images/2025-03-02-wrong-akb/tim.03.03.2025.17.50.07.png",
+    "_site/assets/images/2025-03-02-wrong-akb",
+    "_site/categories/ремонт/index.html",
+    "_site/categories/ремонт",
+    "_tabs/mypage.md",
+    "_tabs/tabpage.md",
+    "_posts/2023-04-01-problems.md",
+    "_posts/2025-03-02-wrong-akb.md",
+    "_posts/2023-01-01-about.md",
+    "_posts/2023-05-01-specs.md",
     "_posts/2023-01-01-welcome.md",
     "_posts/2023-06-01-tabtest.md",
     "_posts/2023-03-01-parts.md",
     "_posts/2023-02-01-manuals.md",
-    "_posts/2023-01-01-about.md",
-    "_posts/2023-05-01-specs.md",
-    "_posts/2025-03-02-wrong-akb.md",
-    "_posts/2023-04-01-problems.md",
     "assets/images/Pasted image 20250303174051.png",
     "assets/images/Pasted image 20250303174323.png",
     "assets/images/2025-03-02-wrong-akb/tim.03.03.2025.17.50.37.png",
@@ -188,16 +197,10 @@
     "_site/www.cx-8.ru/tabpage",
     "_site/www.cx-8.ru/sw.min.js",
     "_site/www.cx-8.ru/sitemap.xml",
-    "_site/www.cx-8.ru/robots.txt",
-    "_site/www.cx-8.ru/redirects.json",
-    "_site/www.cx-8.ru/posts/welcome/index.html",
-    "_site/www.cx-8.ru/posts/tabtest/index.html",
     "_site/www.cx-8.ru/assets/img/favicons/mstile-150x150.png",
     "_site/www.cx-8.ru/assets/img/favicons/favicon-32x32.png",
     "_site/www.cx-8.ru/assets/img/favicons/favicon-16x16.png",
     "_site/www.cx-8.ru/assets/img/favicons/apple-touch-icon.png",
-    "_site/www.cx-8.ru/assets/img/favicons/android-chrome-512x512.png",
-    "_site/www.cx-8.ru/assets/img/favicons/android-chrome-192x192.png",
     "_posts/2023-06-01-aboutus.md",
     "_tabs/categories.md",
     "_posts/2023-01-01-new-first.md",
