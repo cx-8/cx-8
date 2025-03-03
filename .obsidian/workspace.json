@@ -168,8 +168,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "25a92d6ff784d832",
+  "active": "cef37d5ad35a8750",
   "lastOpenFiles": [
+    "_site/www.cx-8.ru/posts/welcome/index.html",
+    "_site/www.cx-8.ru/posts/welcome",
     "_site/posts/wrong-akb/index.html",
     "_site/posts/wrong-akb",
     "_site/assets/images/2025-03-02-wrong-akb/tim.03.03.2025.17.50.37.png",
@@ -195,8 +197,6 @@
     "_includes/comments.html",
     "_site/www.cx-8.ru/tabpage/index.html",
     "_site/www.cx-8.ru/tabpage",
-    "_site/www.cx-8.ru/sw.min.js",
-    "_site/www.cx-8.ru/sitemap.xml",
     "_site/www.cx-8.ru/assets/img/favicons/mstile-150x150.png",
     "_site/www.cx-8.ru/assets/img/favicons/favicon-32x32.png",
     "_site/www.cx-8.ru/assets/img/favicons/favicon-16x16.png",
