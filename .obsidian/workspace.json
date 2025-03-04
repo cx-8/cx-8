@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tabs/categories.md",
+                "file": "_posts/2023-02-01-manuals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "categories"
+              "title": "2023-02-01-manuals"
             }
           }
         ]
@@ -170,6 +170,15 @@
   },
   "active": "cef37d5ad35a8750",
   "lastOpenFiles": [
+    "_posts/2023-01-01-about.md",
+    "assets/images/2023-01-01-about",
+    "assets/images/2023-01-01-about/tim.04.03.2025.13.04.23.png",
+    "_posts/2023-03-01-parts.md",
+    "_posts/2023-05-01-specs.md",
+    "_posts/2025-03-02-wrong-akb.md",
+    "_posts/2023-02-01-manuals.md",
+    "_posts/2023-04-01-problems.md",
+    "_tabs/categories.md",
     "_posts/2023-01-01-welcome.md",
     "_site/tabpage/index.html",
     "_site/tabpage",
@@ -180,7 +189,6 @@
     "_site/posts/wrong-akb",
     "_site/posts/tabtest/index.html",
     "_site/posts/tabtest",
-    "_site/posts/specs/index.html",
     "_site/assets/img/favicons/mstile-150x150.png",
     "_site/assets/img/favicons/favicon-32x32.png",
     "_site/assets/img/favicons/favicon-16x16.png",
@@ -190,18 +198,10 @@
     "_site/www.cx-8.ru/assets/img/favicons/mstile-150x150.png",
     "_site/www.cx-8.ru/assets/img/favicons/favicon-32x32.png",
     "_site/www.cx-8.ru/assets/img/favicons/favicon-16x16.png",
-    "_site/www.cx-8.ru/assets/img/favicons/apple-touch-icon.png",
     "_tabs/mypage.md",
     "_tabs/tabpage.md",
-    "_posts/2023-04-01-problems.md",
-    "_posts/2025-03-02-wrong-akb.md",
-    "_posts/2023-01-01-about.md",
-    "_posts/2023-05-01-specs.md",
     "_posts/2023-06-01-tabtest.md",
-    "_posts/2023-03-01-parts.md",
-    "_posts/2023-02-01-manuals.md",
     "_posts/2023-06-01-aboutus.md",
-    "_tabs/categories.md",
     "_posts/2023-01-01-new-first.md",
     "_posts/2023-04-01-problems copy.md",
     "_posts/2023-03-01-parts copy.md",
