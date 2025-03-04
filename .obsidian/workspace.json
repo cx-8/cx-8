@@ -11,14 +11,12 @@
             "id": "cef37d5ad35a8750",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "_posts/2023-01-01-about.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/images/2023-01-01-about/tim.04.03.2025.13.04.23.png"
               },
-              "icon": "lucide-file",
-              "title": "2023-01-01-about"
+              "icon": "lucide-image",
+              "title": "tim.04.03.2025.13.04.23"
             }
           }
         ]
@@ -170,8 +168,15 @@
   },
   "active": "cef37d5ad35a8750",
   "lastOpenFiles": [
-    "_posts/2023-05-01-specs.md",
+    "assets/images/2023-02-01-manuals/tim.13.10.2024.23.06.48.png",
+    "assets/images/2023-02-01-manuals/tim.04.10.2024.16.38.59.jpg",
+    "assets/images/2023-03-01-parts/tim.04.10.2024.22.07.33.png",
+    "assets/images/2023-05-01-specs/tim.04.10.2024.21.47.53.png",
+    "assets/images/2023-05-01-specs/tim.04.10.2024.21.46.28.png",
+    "assets/images/2023-05-01-specs/tim.04.10.2024.21.45.59.png",
     "_posts/2025-03-02-wrong-akb.md",
+    "_posts/2023-05-01-specs.md",
+    "_posts/Без названия.md",
     "_posts/2023-04-01-problems.md",
     "_posts/2023-03-01-parts.md",
     "_posts/2023-02-01-manuals.md",
@@ -193,11 +198,6 @@
     "_site/assets/img/favicons/favicon-32x32.png",
     "_site/assets/img/favicons/favicon-16x16.png",
     "_site/assets/img/favicons/apple-touch-icon.png",
-    "_site/assets/img/favicons/android-chrome-512x512.png",
-    "_site/assets/img/favicons/android-chrome-192x192.png",
-    "_site/www.cx-8.ru/assets/img/favicons/mstile-150x150.png",
-    "_site/www.cx-8.ru/assets/img/favicons/favicon-32x32.png",
-    "_site/www.cx-8.ru/assets/img/favicons/favicon-16x16.png",
     "_tabs/mypage.md",
     "_tabs/tabpage.md",
     "_posts/2023-06-01-tabtest.md",
