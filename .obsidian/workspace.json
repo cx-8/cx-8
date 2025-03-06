@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d9cb18026103ae6e",
+        "id": "d33757595e9fb647",
         "type": "tabs",
         "children": [
           {
-            "id": "a19bd48315cc237d",
+            "id": "0f166d914ed8af64",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2025-03-04-AKP.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "2025-03-04-AKP"
             }
           }
         ]
@@ -164,8 +168,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a19bd48315cc237d",
+  "active": "0f166d914ed8af64",
   "lastOpenFiles": [
+    "_posts/2025-03-03-shaibs.md",
+    "_posts/2025-03-04-AKP.md",
+    "_posts/2023-02-01-manuals.md",
+    "_posts/2023-03-01-parts.md",
+    "assets/images/2025-03-03-shaibs/tim.06.03.2025.12.34.28.png",
+    "assets/images/2025-03-03-shaibs/tim.06.03.2025.12.34.19.png",
+    "_posts/2023-04-01-problems.md",
+    "assets/images/2023-04-01-problems/tim.06.03.2025.11.10.28.png",
     "_posts/2025-03-02-wrong-akb.md",
     "_posts/2025-02-02-chistka020225.md",
     "assets/images/2025-02-02-chistka020225/tim.05.03.2025.14.58.55-6.jpg",
@@ -175,18 +187,11 @@
     "assets/images/2025-02-02-chistka020225/tim.05.03.2025.14.58.55-2.jpg",
     "assets/images/2025-02-02-chistka020225/tim.05.03.2025.14.58.55-1.jpg",
     "assets/images/2025-02-02-chistka020225/tim.05.03.2025.14.58.55.jpg",
-    "assets/images/2025-02-02-chistka020225/tim.05.03.2025.14.58.54-19.jpg",
-    "assets/images/2025-02-02-chistka020225/tim.05.03.2025.14.58.54-18.jpg",
-    "assets/images/2025-02-02-chistka020225/tim.05.03.2025.14.58.54-17.jpg",
     "assets/images/2025-02-02-chistka020225",
-    "_posts/2025-03-03-shaibs.md",
-    "_posts/2023-04-01-problems.md",
     "assets/images/2023-04-01-problems",
     "_posts/2023-05-01-specs.md",
-    "_posts/2023-03-01-parts.md",
     "_posts/2023-01-01-about.md",
     "assets/images/2025-03-03-shaibs",
-    "_posts/2023-02-01-manuals.md",
     "assets/images/2023-01-01-about",
     "_tabs/categories.md",
     "_posts/2023-01-01-welcome.md",
